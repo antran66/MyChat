@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "970201367568",
+    "firebase_url": "https://mychat-b51c7.firebaseio.com",
+    "project_id": "mychat-b51c7",
+    "storage_bucket": "mychat-b51c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970201367568:android:4235b05e38a9590a",
+        "android_client_info": {
+          "package_name": "com.antran.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970201367568-mc82pukgqflbvaej3bmuelii3j44dra5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.antran.mychat",
+            "certificate_hash": "9774a3efe03dd8337411aa0ac3f33247b048ec0b"
+          }
+        },
+        {
+          "client_id": "970201367568-cb85epap956jksmm078g1oic6qllhsms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg6XatVpRSEKpPCnFDyfjK5_POxL0fbaQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970201367568-cb85epap956jksmm078g1oic6qllhsms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
